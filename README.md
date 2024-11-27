@@ -1,0 +1,1 @@
+If you're looking for a compact project to sharpen your web development skills, Phone Case Studio is a great choice. From user interface design with HTML to creating engaging effects with CSS, this website showcases how fundamental technologies come together to deliver excellent user experiences. It’s also a great starting point for learning responsive design.
